@@ -1,0 +1,924 @@
+@media only screen and (max-width: 1200px){
+    .Banner-1{
+        width: 100%;
+        height: 756px;
+        background: url("../image/Banner-1-Big.png")no-repeat center center/cover;
+    }
+    /* Box-Product-1 */
+    .Box-Product-1{
+        width: 100%;
+        height: 3400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-1 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-1 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Boliz-Shalvar-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Boliz-Shalvar/1.big.png");
+    }
+    .Boliz-Shalvar-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Boliz-Shalvar/2.big.png");
+    }
+    .Boliz-Shalvar-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Boliz-Shalvar/3.big.png");
+    }
+    .Boliz-Shalvar-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Boliz-Shalvar/4.big.png");
+    }
+    .Boliz-Shalvar-5{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Boliz-Shalvar/5.big.png");
+    }
+    /* Box-Product-2 */
+    .Box-Product-2{
+        width: 100%;
+        height: 2600px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-2 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-2 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Sarafon-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sarafan/1.big.png");
+    }
+    .Sarafon-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sarafan/2.big.png");
+    }
+    .Sarafon-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sarafan/3.big.png");
+    }
+    .Sarafon-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sarafan/4.big.png");
+    }
+    /* Box-Product-3 */
+    .Box-Product-3{
+        width: 100%;
+        height: 2600px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-3 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-3 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Box-Product-3 .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .HoodiSport-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/HoodiSport/1.big.png");
+    }
+    .HoodiSport-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/HoodiSport/2.big.png");
+    }
+    .HoodiSport-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/HoodiSport/3.big.png");
+    }
+    .HoodiSport-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/HoodiSport/4.big.png");
+    }
+    /* Box-Product-5 */
+    .Box-Product-5{
+        width: 100%;
+        height: 2600px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-5 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-5 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .T-shirt-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/T-shirt/1.big.png");
+    }
+    .T-shirt-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/T-shirt/2.big.png");
+    }
+    .T-shirt-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/T-shirt/3.big.png");
+    }
+    .T-shirt-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/T-shirt/4.big.png");
+    }
+    /* Banner2 */
+    .Banner2{
+        width: 100%;
+        height: 1100px;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Banner2 .Banner-2{
+        width: 480px;
+        height: 432px;
+        background: url("../image/Banner-2-big.png");
+    }
+    .Banner2 .Banner-3{
+        width: 480px;
+        height: 432px;
+        background: url("../image/Banner-3-big.png");
+    }
+    /* Box-Product-6 */
+    .Box-Product-6{
+        width: 100%;
+        height: 3200px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-6 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-6 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Kerap-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kerap/1.big.png");
+    }
+    .Kerap-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kerap/2.big.png");
+    }
+    .Kerap-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kerap/3.big.png");
+    }
+    .Kerap-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kerap/4.big.png");
+    }
+    .Kerap-5{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kerap/5.big.png");
+    }
+    /* Box-Product-7 */
+    .Box-Product-7{
+        width: 100%;
+        height: 3400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-7 label{
+        margin-top: 35px;
+        margin-left: 350px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-7 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Shalvarmom-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sharlvarmom/1.big.png");
+    }
+    .Shalvarmom-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sharlvarmom/2.big.png");
+    }
+    .Shalvarmom-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sharlvarmom/3.big.png");
+    }
+    .Shalvarmom-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sharlvarmom/5.big.png");
+    }
+    .Shalvarmom-5{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Sharlvarmom/6.big.png");
+    }
+    /* .Box-Product-8 */
+    .Box-Product-8{
+        width: 100%;
+        height: 1400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-8 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-8 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Gap-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Gap/1.big.png");
+    }
+    .Gap-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Gap/2.big.png");
+    }
+    /* Box-Product-9 */
+    .Box-Product-9{
+        width: 100%;
+        height: 3200px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-9 label{
+        margin-top: 35px;
+        margin-left: 650px;
+        font-size: 1.4vw;
+    }
+    .Box-Product-9 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 468px;
+        height: 596.4px;
+    }
+    .Kapshan-1{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kapshan/1.big.png");
+    }
+    .Kapshan-2{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kapshan/2.big.png");
+    }
+    .Kapshan-3{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kapshan/3.big.png");
+    }
+    .Kapshan-4{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kapshan/4.big.png");
+    }
+    .Kapshan-5{
+        width: 468px;
+        height: 468px;
+        background: url("../image/Kapshan/5.big.png");
+    }
+}
+@media only screen and (max-width: 850px){
+    .Navbar{
+        padding-top: 8px;
+        padding-right: 25px;
+    }
+    .hamburger{
+        display: block;
+    }
+    .hamburger.active .bar:nth-child(2){
+        opacity: 0;
+    }
+    .hamburger.active .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+    }
+    .hamburger.active .bar:nth-child(3){
+        transform: translateY(-8px) rotate(-45deg);
+    }
+    .nav-menu{
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        gap: 0;
+        flex-direction: column;
+        background-color: #262626;
+        width: 100%;
+        align-items: center;
+        transition: 0.3s;
+    }
+    .nav-item{
+        margin: 16px 0;
+    }
+    .nav-menu.active{
+        left: 0;
+    }
+}
+@media only screen and (max-width: 768px){
+    .A-Header a{
+        font-size: medium;
+    }
+    .Social-Header{
+        display: none;
+    }
+    .Header .Flex-Profile .fa-user{
+        display: none;
+    }
+    .Header .Flex-Search button{
+        display: none;
+    }
+    .Header .Flex-Search input{
+        width: 250px;
+    }
+    .Header .Flex-Logo a{
+        font-size: 14px;
+    }
+    /* Banner-1 */
+    .Banner-1{
+        width: 100%;
+        height: 450px;
+        background: url("../image/Banner-1-medium.png")no-repeat center center/cover;
+    }
+    /* Support-Number */
+    .Support-Number{
+        width: 100%;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+    }
+    /* Links */
+    .Links{
+        width: 100%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+    }
+    .Flex-Time{
+        width: 90%;
+        height: 460px;
+        padding-top: 10px;
+    }
+    .iframe{
+        width: 100%;
+        height: 185px;
+    }
+    /* footer */
+    .footer p{
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .A-Header a{
+        font-size: medium;
+    }
+    .Header .Flex-Search input{
+        width: 180px;
+    }
+    .Header .Flex-Logo a{
+        font-size: 10px;
+    }
+    /* Banner-1 */
+    .Banner-1{
+        width: 100%;
+        height: 250px;
+        background: url("../image/Banner-1-small.png")no-repeat center center/cover;
+    }
+    /* Box-Product-1 */
+    .Box-Product-1{
+        width: 100%;
+        height: 1700px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-1 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-1 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Boliz-Shalvar-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Boliz-Shalvar/1.png");
+    }
+    .Boliz-Shalvar-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Boliz-Shalvar/2.png");
+    }
+    .Boliz-Shalvar-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Boliz-Shalvar/3.png");
+    }
+    .Boliz-Shalvar-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Boliz-Shalvar/4.png");
+    }
+    .Boliz-Shalvar-5{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Boliz-Shalvar/5.png");
+    }
+    /* Box-Product-2 */
+    .Box-Product-2{
+        width: 100%;
+        height: 1400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-2 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-2 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Sarafon-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sarafan/1.png");
+    }
+    .Sarafon-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sarafan/2.png");
+    }
+    .Sarafon-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sarafan/3.png");
+    }
+    .Sarafon-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sarafan/4.png");
+    }
+    /* Box-Product-3 */
+    .Box-Product-3{
+        width: 100%;
+        height: 1400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-3 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-3 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Box-Product-3 .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .HoodiSport-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/HoodiSport/1.png");
+    }
+    .HoodiSport-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/HoodiSport/2.png");
+    }
+    .HoodiSport-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/HoodiSport/3.png");
+    }
+    .HoodiSport-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/HoodiSport/4.png");
+    }
+    /* Box-Product-5 */
+    .Box-Product-5{
+        width: 100%;
+        height: 1400px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-5 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-5 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .T-shirt-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/T-shirt/1.png");
+    }
+    .T-shirt-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/T-shirt/2.png");
+    }
+    .T-shirt-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/T-shirt/3.png");
+    }
+    .T-shirt-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/T-shirt/4.png");
+    }
+    /* Banner2 */
+    .Banner2{
+        width: 100%;
+        height: 400px;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Banner2 .Banner-2{
+        width: 344px;
+        height: 133px;
+        background: url("../image/Banner-2-small.png");
+    }
+    .Banner2 .Banner-3{
+        width: 344px;
+        height: 133px;
+        background: url("../image/Banner-3-small.png");
+    }
+    /* Box-Product-6 */
+    .Box-Product-6{
+        width: 100%;
+        height: 1700px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-6 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-6 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Kerap-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kerap/1.png");
+    }
+    .Kerap-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kerap/2.png");
+    }
+    .Kerap-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kerap/3.png");
+    }
+    .Kerap-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kerap/4.png");
+    }
+    .Kerap-5{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kerap/5.png");
+    }
+    /* Comment */
+    .Comment{
+        width: 100%;
+        height: 540px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .Flex-Comment{
+        width: 100px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        font-size: 25px;
+        border-radius: 50%;
+    }
+    /* Box-Product-7 */
+    .Box-Product-7{
+        width: 100%;
+        height: 1700px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-7 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-7 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Shalvarmom-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sharlvarmom/1.png");
+    }
+    .Shalvarmom-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sharlvarmom/2.png");
+    }
+    .Shalvarmom-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sharlvarmom/3.png");
+    }
+    .Shalvarmom-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sharlvarmom/5.png");
+    }
+    .Shalvarmom-5{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Sharlvarmom/6.png");
+    }
+    /* .Box-Product-8 */
+    .Box-Product-8{
+        width: 100%;
+        height: 800px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-8 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-8 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Gap-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Gap/1.png");
+    }
+    .Gap-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Gap/2.png");
+    }
+    /* Box-Product-9 */
+    .Box-Product-9{
+        width: 100%;
+        height: 1700px;
+        display: flex;
+        justify-content: '';
+        flex-direction: column;
+        align-items: center;
+    }
+    .Box-Product-9 label{
+        margin-top: 35px;
+        margin-left: 100px;
+        font-size: 2.4vw;
+    }
+    .Box-Product-9 .Product-Box{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column-reverse;
+        align-items: center;
+    } 
+    .Flex-Box{
+        width: 198.667px;
+        height: 280px;
+    }
+    .Kapshan-1{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kapshan/1.png");
+    }
+    .Kapshan-2{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kapshan/2.png");
+    }
+    .Kapshan-3{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kapshan/3.png");
+    }
+    .Kapshan-4{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kapshan/4.png");
+    }
+    .Kapshan-5{
+        width: 198.667px;
+        height: 198.667px;
+        background: url("../image/Kapshan/5.png");
+    }
+    /* Support-Number */
+    .Support-Number{
+        width: 100%;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+    }
+    /* Links */
+    .Links{
+        width: 100%;
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+    }
+    .Flex-Links{
+        width: 100%;
+        height: 420px;
+    }
+    .Flex-Time{
+        width: 100%;
+        height: 460px;
+        padding-top: 10px;
+    }
+    .iframe{
+        width: 380px;
+        height: 185px;
+    }
+    /* footer */
+    .footer p{
+        font-size: 8px;
+    }
+}
